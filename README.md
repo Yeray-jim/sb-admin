@@ -1,4 +1,4 @@
-# SB Admin - Dashboard Template Replica
+# SB Admin
 
 Este repositorio contiene la réplica y maquetación del panel de administración basado en la plantilla oficial de [SB Admin (Start Bootstrap)](https://startbootstrap.com/template/sb-admin).
 
